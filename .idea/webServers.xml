@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6f9c92c-5901-46dd-b4e0-34625d9364ee" name="Apache Server" url="http://127.0.0.1/park-king">
+        <fileTransfer port="0" mountedRoot="/opt/lampp/htdocs/park-king" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

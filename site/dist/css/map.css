@@ -1,0 +1,16 @@
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+    height: 100%;
+}
+
+.cell{
+    background-color: #0b3e6f;
+    text-align: center;
+}
+
+td{
+    border: 5px solid white;
+    min-width: 100px;
+    height: 60px; !important;
+}

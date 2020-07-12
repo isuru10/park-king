@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="457fd904-5e75-444e-9a39-64f22bf7c2df" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/site/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="directions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/dist/js/directions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1605">
+              <caret line="107" column="12" lean-forward="false" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cancellation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/Cancellation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3225">
+              <caret line="215" column="42" lean-forward="false" selection-start-line="215" selection-start-column="42" selection-end-line="215" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="starter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/starter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="directions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/directions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3555">
+              <caret line="237" column="68" lean-forward="false" selection-start-line="237" selection-start-column="68" selection-end-line="237" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reservation-controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/reservation-controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3225">
+              <caret line="220" column="50" lean-forward="false" selection-start-line="220" selection-start-column="50" selection-end-line="220" selection-end-column="50" />
+              <folding>
+                <element signature="e#6#92#0#PHP" expanded="true" />
+                <marker date="1547881323481" expanded="true" signature="522:559" ph="SELECT * FRO... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="522:573" ph="SELECT * FRO... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="522:575" ph="SELECT * FRO... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="522:582" ph="SELECT lot_i... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="771:812" ph="SELECT slot_... slot" />
+                <marker date="1547881323481" expanded="true" signature="771:820" ph="SELECT * FRO... slot" />
+                <marker date="1547881323481" expanded="true" signature="1280:1311" ph="SELECT * FRO... reservation" />
+                <marker date="1547881323481" expanded="true" signature="1280:1312" ph="SELECT * FRO... reservation" />
+                <marker date="1547881323481" expanded="true" signature="1850:1903" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="1946:1964" ph="SELECT lot_i... " />
+                <marker date="1547881323481" expanded="true" signature="1946:1996" ph="SELECT lot_i... slot" />
+                <marker date="1547881323481" expanded="true" signature="2146:2206" ph="SELECT empty... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="2374:2396" ph="UPDATE parking_lot... " />
+                <marker date="1547881323481" expanded="true" signature="2374:2425" ph="UPDATE parking_lot... " />
+                <marker date="1547881323481" expanded="true" signature="2374:2450" ph="UPDATE parking_lot... " />
+                <marker date="1547881323481" expanded="true" signature="2533:2579" ph="SELECT * FRO... reservation" />
+                <marker date="1547881323481" expanded="true" signature="2773:2944" ph="INSERT INTO reservation_done... " />
+                <marker date="1547881323481" expanded="true" signature="3027:3072" ph="DELETE FROM reservation... " />
+                <marker date="1547881323481" expanded="true" signature="3514:3567" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="3610:3660" ph="SELECT lot_i... slot" />
+                <marker date="1547881323481" expanded="true" signature="3810:3870" ph="SELECT empty... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="4038:4114" ph="UPDATE parking_lot... " />
+                <marker date="1547881323481" expanded="true" signature="4199:4245" ph="SELECT * FRO... reservation" />
+                <marker date="1547881323481" expanded="true" signature="4455:4627" ph="INSERT INTO reservation_done... " />
+                <marker date="1547881323481" expanded="true" signature="4671:4716" ph="DELETE FROM reservation... " />
+                <marker date="1547881323481" expanded="true" signature="5210:5249" ph="SELECT slot_... slot" />
+                <marker date="1547881323481" expanded="true" signature="5210:5250" ph="SELECT slot_... slot" />
+                <marker date="1547881323481" expanded="true" signature="5210:5251" ph="SELECT slot_... slot" />
+                <marker date="1547881323481" expanded="true" signature="5210:5268" ph="SELECT slot_... slot" />
+                <marker date="1547881323481" expanded="true" signature="5699:5763" ph="UPDATE reservation... " />
+                <marker date="1547881323481" expanded="true" signature="6298:6449" ph="INSERT INTO reservation... " />
+                <marker date="1547881323481" expanded="true" signature="6625:6684" ph="SELECT latit... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="6625:6685" ph="SELECT latit... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="6836:6900" ph="SELECT total... parking_lot" />
+                <marker date="1547881323481" expanded="true" signature="7062:7138" ph="UPDATE parking_lot... " />
+                <marker date="1547881323481" expanded="true" signature="7174:7210" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="7174:7217" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="7174:7218" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="7174:7219" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="7174:7226" ph="UPDATE slot... " />
+                <marker date="1547881323481" expanded="true" signature="7174:7227" ph="UPDATE slot... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reservation_details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/reservation_details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3705">
+              <caret line="247" column="69" lean-forward="false" selection-start-line="247" selection-start-column="69" selection-end-line="247" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reserve.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/reserve.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4635">
+              <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reservation-controller.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/dist/js/reservation-controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="96" column="26" lean-forward="true" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/login-controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding>
+                <marker date="1547886211791" expanded="true" signature="354:401" ph="SELECT * FRO... user" />
+                <marker date="1547886211791" expanded="true" signature="711:770" ph="SELECT * FRO... parking_lot" />
+                <marker date="1547886211791" expanded="true" signature="1026:1041" ph="SELECT * FRO... parking_lot" />
+                <marker date="1547886211791" expanded="true" signature="1026:1081" ph="SELECT * FRO... vehicle" />
+                <marker date="1547886211791" expanded="true" signature="1297:1361" ph="SELECT rate reservation_type" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>online</find>
+      <find>naviga</find>
+      <find>data</find>
+      <find>all</find>
+      <find>plate_no</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/site/pages/examples/login.html" />
+        <option value="$PROJECT_DIR$/site/starter.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/navbar.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/site/pages/test.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/pages/reservation-controller.js" />
+        <option value="$PROJECT_DIR$/controller/res-controller.php" />
+        <option value="$PROJECT_DIR$/site/dist/css/map.css" />
+        <option value="$PROJECT_DIR$/site/register.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/site/test.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/mainfille.js" />
+        <option value="$PROJECT_DIR$/controller/parking-lot-controller.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/manage-parking-lots-controller.js" />
+        <option value="$PROJECT_DIR$/site/dist/js/add-vehicle-controller.js" />
+        <option value="$PROJECT_DIR$/controller/vehicle-controller.php" />
+        <option value="$PROJECT_DIR$/controller/payment-controller.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/map.js" />
+        <option value="$PROJECT_DIR$/site/dashboard.php" />
+        <option value="$PROJECT_DIR$/site/manage-parking-lots.php" />
+        <option value="$PROJECT_DIR$/site/directions.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/add-parking-lot-controller.js" />
+        <option value="$PROJECT_DIR$/site/payment_details.php" />
+        <option value="$PROJECT_DIR$/site/reservations.php" />
+        <option value="$PROJECT_DIR$/site/add-vehicle.php" />
+        <option value="$PROJECT_DIR$/controller/map-controller.php" />
+        <option value="$PROJECT_DIR$/controller/register-controller.php" />
+        <option value="$PROJECT_DIR$/controller/logout.php" />
+        <option value="$PROJECT_DIR$/site/add-parking-lot.php" />
+        <option value="$PROJECT_DIR$/controller/reservation-controller.php" />
+        <option value="$PROJECT_DIR$/controller/login-controller.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/reservation-controller.js" />
+        <option value="$PROJECT_DIR$/site/reserve.php" />
+        <option value="$PROJECT_DIR$/site/reservation_details.php" />
+        <option value="$PROJECT_DIR$/site/dist/js/directions.js" />
+        <option value="$PROJECT_DIR$/site/Cancellation.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="8af4385c-1c59-41ed-9dc4-bbd6d9de7b8e" name="Apache Web Server" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="park-king" type="b2602c69:ProjectViewProjectNode" />
+              <item name="park-king" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site" />
+      <recent name="$PROJECT_DIR$/site/dist/js" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dist/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/dist/js" />
+      <recent name="$PROJECT_DIR$/site" />
+      <recent name="$PROJECT_DIR$/site/pages" />
+      <recent name="$PROJECT_DIR$/temp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.run-park-king">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="add-vehicle-controller.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="add-vehicle-controller.js" working-dir="$PROJECT_DIR$/site/dist/js" />
+    <configuration name="run-park-king" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Apache Web Server" start_url="http://localhost/park-king">
+      <method>
+        <option name="FtpUpload" enabled="true">
+          <server_id>b6f9c92c-5901-46dd-b4e0-34625d9364ee</server_id>
+          <server_name>Apache Server</server_name>
+          <path>$PROJECT_DIR$</path>
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Page.run-park-king" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.add-vehicle-controller.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.add-vehicle-controller.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457fd904-5e75-444e-9a39-64f22bf7c2df" name="Default" comment="" />
+      <created>1541177542721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541177542721</updated>
+      <workItem from="1541177548122" duration="3813000" />
+      <workItem from="1542101785572" duration="1921000" />
+      <workItem from="1542131616765" duration="4799000" />
+      <workItem from="1542162774626" duration="2369000" />
+      <workItem from="1542255776489" duration="1805000" />
+      <workItem from="1542893784038" duration="19978000" />
+      <workItem from="1543304468007" duration="8534000" />
+      <workItem from="1543911636219" duration="5122000" />
+      <workItem from="1544021408797" duration="3546000" />
+      <workItem from="1544075814999" duration="11038000" />
+      <workItem from="1544108034744" duration="26244000" />
+      <workItem from="1544180955169" duration="24258000" />
+      <workItem from="1544238571617" duration="3241000" />
+      <workItem from="1544427928259" duration="4049000" />
+      <workItem from="1544439212958" duration="5296000" />
+      <workItem from="1544465140096" duration="1488000" />
+      <workItem from="1547539943854" duration="980000" />
+      <workItem from="1547541919383" duration="15268000" />
+      <workItem from="1547611648535" duration="7365000" />
+      <workItem from="1547640190729" duration="2669000" />
+      <workItem from="1547692506413" duration="6749000" />
+      <workItem from="1547702907874" duration="30277000" />
+      <workItem from="1547795150269" duration="59193000" />
+      <workItem from="1547857910806" duration="19972000" />
+      <workItem from="1560867857150" duration="482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="270456000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="727" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20075758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json" />
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/composer.json" />
+    <entry file="file://$PROJECT_DIR$/site/pages/UI/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5325">
+          <caret line="355" column="38" lean-forward="false" selection-start-line="355" selection-start-column="32" selection-end-line="355" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-view.php" />
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="83" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/adminlte.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/pages/dashboard2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="96" lean-forward="false" selection-start-line="67" selection-start-column="96" selection-end-line="67" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/grunt/.jshintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/js/Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/css/map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/manage-parking-lots-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/add-vehicle-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/add-parking-lot-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="75" lean-forward="false" selection-start-line="60" selection-start-column="75" selection-end-line="60" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/payment_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="254" column="58" lean-forward="false" selection-start-line="254" selection-start-column="58" selection-end-line="254" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/customer-controller.php" />
+    <entry file="file://$PROJECT_DIR$/controller/res-controller.php" />
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/mainfille.js" />
+    <entry file="file://$PROJECT_DIR$/site/dist/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="181" column="22" lean-forward="false" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/reservations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1096">
+          <caret line="311" column="0" lean-forward="false" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/map-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/parking-lot-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/payment-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/register-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navbar.php" />
+    <entry file="file://$PROJECT_DIR$/footer.php" />
+    <entry file="file://$PROJECT_DIR$/controller/vehicle-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/add-vehicle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="246" column="65" lean-forward="false" selection-start-line="246" selection-start-column="65" selection-end-line="246" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/manage-parking-lots.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560">
+          <caret line="194" column="22" lean-forward="false" selection-start-line="194" selection-start-column="22" selection-end-line="194" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/add-parking-lot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3495">
+          <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-885">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/starter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/login-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <marker date="1547886211791" expanded="true" signature="354:401" ph="SELECT * FRO... user" />
+            <marker date="1547886211791" expanded="true" signature="711:770" ph="SELECT * FRO... parking_lot" />
+            <marker date="1547886211791" expanded="true" signature="1026:1041" ph="SELECT * FRO... parking_lot" />
+            <marker date="1547886211791" expanded="true" signature="1026:1081" ph="SELECT * FRO... vehicle" />
+            <marker date="1547886211791" expanded="true" signature="1297:1361" ph="SELECT rate reservation_type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/reserve.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4635">
+          <caret line="314" column="0" lean-forward="false" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/reservation-controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="220" column="50" lean-forward="false" selection-start-line="220" selection-start-column="50" selection-end-line="220" selection-end-column="50" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+            <marker date="1547881323481" expanded="true" signature="522:559" ph="SELECT * FRO... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="522:573" ph="SELECT * FRO... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="522:575" ph="SELECT * FRO... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="522:582" ph="SELECT lot_i... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="771:812" ph="SELECT slot_... slot" />
+            <marker date="1547881323481" expanded="true" signature="771:820" ph="SELECT * FRO... slot" />
+            <marker date="1547881323481" expanded="true" signature="1280:1311" ph="SELECT * FRO... reservation" />
+            <marker date="1547881323481" expanded="true" signature="1280:1312" ph="SELECT * FRO... reservation" />
+            <marker date="1547881323481" expanded="true" signature="1850:1903" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="1946:1964" ph="SELECT lot_i... " />
+            <marker date="1547881323481" expanded="true" signature="1946:1996" ph="SELECT lot_i... slot" />
+            <marker date="1547881323481" expanded="true" signature="2146:2206" ph="SELECT empty... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="2374:2396" ph="UPDATE parking_lot... " />
+            <marker date="1547881323481" expanded="true" signature="2374:2425" ph="UPDATE parking_lot... " />
+            <marker date="1547881323481" expanded="true" signature="2374:2450" ph="UPDATE parking_lot... " />
+            <marker date="1547881323481" expanded="true" signature="2533:2579" ph="SELECT * FRO... reservation" />
+            <marker date="1547881323481" expanded="true" signature="2773:2944" ph="INSERT INTO reservation_done... " />
+            <marker date="1547881323481" expanded="true" signature="3027:3072" ph="DELETE FROM reservation... " />
+            <marker date="1547881323481" expanded="true" signature="3514:3567" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="3610:3660" ph="SELECT lot_i... slot" />
+            <marker date="1547881323481" expanded="true" signature="3810:3870" ph="SELECT empty... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="4038:4114" ph="UPDATE parking_lot... " />
+            <marker date="1547881323481" expanded="true" signature="4199:4245" ph="SELECT * FRO... reservation" />
+            <marker date="1547881323481" expanded="true" signature="4455:4627" ph="INSERT INTO reservation_done... " />
+            <marker date="1547881323481" expanded="true" signature="4671:4716" ph="DELETE FROM reservation... " />
+            <marker date="1547881323481" expanded="true" signature="5210:5249" ph="SELECT slot_... slot" />
+            <marker date="1547881323481" expanded="true" signature="5210:5250" ph="SELECT slot_... slot" />
+            <marker date="1547881323481" expanded="true" signature="5210:5251" ph="SELECT slot_... slot" />
+            <marker date="1547881323481" expanded="true" signature="5210:5268" ph="SELECT slot_... slot" />
+            <marker date="1547881323481" expanded="true" signature="5699:5763" ph="UPDATE reservation... " />
+            <marker date="1547881323481" expanded="true" signature="6298:6449" ph="INSERT INTO reservation... " />
+            <marker date="1547881323481" expanded="true" signature="6625:6684" ph="SELECT latit... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="6625:6685" ph="SELECT latit... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="6836:6900" ph="SELECT total... parking_lot" />
+            <marker date="1547881323481" expanded="true" signature="7062:7138" ph="UPDATE parking_lot... " />
+            <marker date="1547881323481" expanded="true" signature="7174:7210" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="7174:7217" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="7174:7218" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="7174:7219" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="7174:7226" ph="UPDATE slot... " />
+            <marker date="1547881323481" expanded="true" signature="7174:7227" ph="UPDATE slot... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/reservation_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3705">
+          <caret line="247" column="69" lean-forward="false" selection-start-line="247" selection-start-column="69" selection-end-line="247" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/Cancellation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="215" column="42" lean-forward="false" selection-start-line="215" selection-start-column="42" selection-end-line="215" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/directions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3555">
+          <caret line="237" column="68" lean-forward="false" selection-start-line="237" selection-start-column="68" selection-end-line="237" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/directions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="12" lean-forward="false" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/dist/js/reservation-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" column="26" lean-forward="true" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
